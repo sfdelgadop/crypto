@@ -7,4 +7,4 @@ def EEA(a,b):
         return P[0], P[2], P[1] - q*P[2]
 
 
-print(EEA(372, 321))
+print(EEA(372, 31))
